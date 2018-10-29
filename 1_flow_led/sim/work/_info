@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\program\modelsim
+vflow_led
+Z1 Id?RC:V]Iaz;GJ3inOGW]@3
+Z2 V0:NMGW:k`z[_ZIIPl_c=^2
+Z3 dD:\project\flow_led\sim
+Z4 w1531279143
+Z5 8D:\project\flow_led\sim\tb\flow_led.v
+Z6 FD:\project\flow_led\sim\tb\flow_led.v
+L0 22
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|D:\project\flow_led\sim\tb\flow_led.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 BGE`4BHOk`fl5=_LIEPjZ2
+!s85 0
+Z11 !s108 1531279156.779000
+Z12 !s107 D:\project\flow_led\sim\tb\flow_led.v|
+!s101 -O0
+vtb_flow_led
+!i10b 1
+Z13 !s100 4[Z;TflgDM52LofE;25@90
+Z14 IGV@?lYG8E>oCaGEjm_o:A3
+Z15 ViPfL^idE:zb]M5?QD;AMm1
+R3
+w1531278800
+Z16 8D:\project\flow_led\sim\tb\tb_flow_led.v
+Z17 FD:\project\flow_led\sim\tb\tb_flow_led.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1531279156.953000
+!s107 D:\project\flow_led\sim\tb\tb_flow_led.v|
+Z18 !s90 -reportprogress|300|-work|work|D:\project\flow_led\sim\tb\tb_flow_led.v|
+!s101 -O0
+R9

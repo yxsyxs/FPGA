@@ -1,0 +1,15 @@
+D:/project/flow_led/sim/tb/tb_flow_led.v {1 {vlog -work work {D:\project\flow_led\sim\tb\tb_flow_led.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_flow_led
+
+Top level modules:
+	tb_flow_led
+
+} {} {}} D:/project/flow_led/sim/tb/flow_led.v {1 {vlog -work work {D:\project\flow_led\sim\tb\flow_led.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module flow_led
+
+Top level modules:
+	flow_led
+
+} {} {}}

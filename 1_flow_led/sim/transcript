@@ -1,0 +1,26 @@
+# Reading D:/program/modelsim/modelsim_ae/tcl/vsim/pref.tcl 
+# OpenFile D:/project/flow_led/sim/flow_led_test.mpf 
+# Loading project flow_led_test
+# Compile of flow_led.v was successful.
+# Compile of tb_flow_led.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of flow_led.v was successful.
+# Compile of tb_flow_led.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_flow_led
+# vsim -voptargs=+acc work.tb_flow_led 
+# //  ModelSim ALTERA 10.1d Nov  2 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading work.tb_flow_led
+# Loading work.flow_led
+add wave -position insertpoint  \
+sim:/tb_flow_led/led
+run
+quit -sim
